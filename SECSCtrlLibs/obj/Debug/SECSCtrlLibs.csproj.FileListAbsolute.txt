@@ -155,3 +155,15 @@ D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Ba
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb

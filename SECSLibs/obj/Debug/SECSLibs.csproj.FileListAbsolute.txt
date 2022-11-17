@@ -61,3 +61,8 @@ D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Ba
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.dll
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.pdb
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSLibs\obj\Debug\SECSLibs.pdb

@@ -441,7 +441,7 @@
             this.bS1_Add.SubButtonSize = new System.Drawing.Size(100, 25);
             this.bS1_Add.TabIndex = 1;
             this.bS1_Add.Text_Button = "";
-            this.bS1_Add.Click += new System.EventHandler(this.bS1_Add_ButtonStyle1_OnclickEvent);
+            this.bS1_Add.ButtonStyle1_OnclickEvent += new System.EventHandler(this.bS1_Add_ButtonStyle1_OnclickEvent);
             // 
             // cbx_Receive
             // 

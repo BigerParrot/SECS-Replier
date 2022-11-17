@@ -294,6 +294,7 @@ namespace SECSTry
             {
                 dgv_Send.Columns.Insert(columnIndex0, buttonColumn0);
             }
+            buttonColumn0.ReadOnly = true;
 
 
             dgv_Send.Columns[0].Width = 40;

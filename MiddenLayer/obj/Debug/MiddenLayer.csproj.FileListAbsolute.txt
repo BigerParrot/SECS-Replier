@@ -60,3 +60,8 @@ D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Ba
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.pdb
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.dll
 D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\MiddenLayer\obj\Debug\MiddenLayer.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\MiddenLayer\obj\Debug\MiddenLayer.pdb
