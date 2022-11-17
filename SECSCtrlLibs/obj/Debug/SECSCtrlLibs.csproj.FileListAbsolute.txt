@@ -1,0 +1,157 @@
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.CopyComplete
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.CopyComplete
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.CopyComplete
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ButtonStyle1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.ConnectionForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileNameRequestForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.FileOpenForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSCtrlLibs\obj\Debug\SECSCtrlLibs.pdb

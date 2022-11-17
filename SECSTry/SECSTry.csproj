@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86CE4A51-7715-49FE-B770-39C772E9B499}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SECSTry</RootNamespace>
+    <AssemblyName>SECSTry</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Center\ConnectionCenter.cs" />
+    <Compile Include="Center\LinkTableCenter.cs" />
+    <Compile Include="Center\SECSsystem.cs" />
+    <Compile Include="Loger\Loger.cs" />
+    <Compile Include="SECSReplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SECSReplier.Designer.cs">
+      <DependentUpon>SECSReplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UControl\MainPages\Page3\SubPage\U_EPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\U_EPage.designer.cs">
+      <DependentUpon>U_EPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UC1\Controller_UC1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UC1\Controller_UC1.Designer.cs">
+      <DependentUpon>Controller_UC1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UC1\SubItems\NonServer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UC1\SubItems\NonServer.Designer.cs">
+      <DependentUpon>NonServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XMLFileConverter\DGV_XML_Converter.cs" />
+    <Compile Include="UControl\MainPages\Page1\P1Items\SECSParaPage_1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\SECSParaPage_1.Designer.cs">
+      <DependentUpon>SECSParaPage_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueForm.Designer.cs">
+      <DependentUpon>ValueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\BinaryValueSet_UCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\BinaryValueSet_UCtrl.Designer.cs">
+      <DependentUpon>BinaryValueSet_UCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\BoolValueSet_UCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\BoolValueSet_UCtrl.Designer.cs">
+      <DependentUpon>BoolValueSet_UCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\IntValueSet_UCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\IntValueSet_UCtrl.Designer.cs">
+      <DependentUpon>IntValueSet_UCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\StringValueSet_UCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\P1Items\ValueFormItem\StringValueSet_UCtrl.Designer.cs">
+      <DependentUpon>StringValueSet_UCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\Page1_UCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page1\Page1_UCtrl.Designer.cs">
+      <DependentUpon>Page1_UCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page2\Loggers_Ctrl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page2\Loggers_Ctrl1.Designer.cs">
+      <DependentUpon>Loggers_Ctrl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page2\Loggers_Ctrl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page2\Loggers_Ctrl2.Designer.cs">
+      <DependentUpon>Loggers_Ctrl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\Page3_UCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\Page3_UCtrl.Designer.cs">
+      <DependentUpon>Page3_UCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\Sub_SECS\SubItem2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\Sub_SECS\SubItem2.Designer.cs">
+      <DependentUpon>SubItem2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\Sub_SECS\SubItem1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\Sub_SECS\SubItem1.Designer.cs">
+      <DependentUpon>SubItem1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\U_SECS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\U_SECS.designer.cs">
+      <DependentUpon>U_SECS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\U_System.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\MainPages\Page3\SubPage\U_System.designer.cs">
+      <DependentUpon>U_System.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\Tabs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\Tabs.Designer.cs">
+      <DependentUpon>Tabs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\Tittle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\Tittle.Designer.cs">
+      <DependentUpon>Tittle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SECSReplier.resx">
+      <DependentUpon>SECSReplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UControl\MainPages\Page1\P1Items\SECSParaPage_1.resx">
+      <DependentUpon>SECSParaPage_1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page1\P1Items\ValueForm.resx">
+      <DependentUpon>ValueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page1\P1Items\ValueFormItem\BinaryValueSet_UCtrl.resx">
+      <DependentUpon>BinaryValueSet_UCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page1\P1Items\ValueFormItem\BoolValueSet_UCtrl.resx">
+      <DependentUpon>BoolValueSet_UCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page1\P1Items\ValueFormItem\IntValueSet_UCtrl.resx">
+      <DependentUpon>IntValueSet_UCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page1\P1Items\ValueFormItem\StringValueSet_UCtrl.resx">
+      <DependentUpon>StringValueSet_UCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page1\Page1_UCtrl.resx">
+      <DependentUpon>Page1_UCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page2\Loggers_Ctrl1.resx">
+      <DependentUpon>Loggers_Ctrl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page2\Loggers_Ctrl2.resx">
+      <DependentUpon>Loggers_Ctrl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page3\Page3_UCtrl.resx">
+      <DependentUpon>Page3_UCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page3\SubPage\Sub_SECS\SubItem2.resx">
+      <DependentUpon>SubItem2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page3\SubPage\Sub_SECS\SubItem1.resx">
+      <DependentUpon>SubItem1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page3\SubPage\U_EPage.resx">
+      <DependentUpon>U_EPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page3\SubPage\U_SECS.resx">
+      <DependentUpon>U_SECS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\MainPages\Page3\SubPage\U_System.resx">
+      <DependentUpon>U_System.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\Tabs.resx">
+      <DependentUpon>Tabs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\Tittle.resx">
+      <DependentUpon>Tittle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UC1\Controller_UC1.resx">
+      <DependentUpon>Controller_UC1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UC1\SubItems\NonServer.resx">
+      <DependentUpon>NonServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MiddenLayer\MiddenLayer.csproj">
+      <Project>{37f1cdc2-e0a2-4249-9e51-e5c41122d07f}</Project>
+      <Name>MiddenLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SECSCtrlLibs\SECSCtrlLibs.csproj">
+      <Project>{b1d008e1-6e19-4f7a-82f0-551d1c2e3803}</Project>
+      <Name>SECSCtrlLibs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SECSLibs\SECSLibs.csproj">
+      <Project>{3535f7ea-5405-461c-aa67-d90af563710f}</Project>
+      <Name>SECSLibs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

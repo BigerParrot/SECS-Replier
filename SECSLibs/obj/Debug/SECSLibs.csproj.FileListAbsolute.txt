@@ -1,0 +1,63 @@
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSLibs\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSLibs\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSLibs\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSLibs\obj\Debug\SECSLibs.csprojResolveAssemblyReference.cache

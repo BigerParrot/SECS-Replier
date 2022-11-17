@@ -1,0 +1,433 @@
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.exe.config
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.exe
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.SuggestedBindingRedirects.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.U_System.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.CopyComplete
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.exe
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\SECSTry\obj\Debug\SECSTry.U_EPage.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_EPage.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.NonServer.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe.config
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.SuggestedBindingRedirects.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_EPage.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_System.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.NonServer.resources
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.CopyComplete
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.exe
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_EPage.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.NonServer.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe.config
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.SuggestedBindingRedirects.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_EPage.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_System.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.NonServer.resources
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.CopyComplete
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.exe
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSTry.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSCtrlLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\bin\Debug\SECSLibs.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSReplier.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Properties.Resources.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SECSParaPage_1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.ValueForm.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BinaryValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.BoolValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.IntValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.StringValueSet_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page1_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Loggers_Ctrl2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Page3_UCtrl.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem2.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.SubItem1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_EPage.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_SECS.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.U_System.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.MainPages.Tabs.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.UControl.Tittle.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.Controller_UC1.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.NonServer.resources
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\SECSTry\obj\Debug\SECSTry.csproj.GenerateResource.Cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSTry\bin\Debug\SECSTry.exe.config
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSTry\obj\Debug\SECSTry.exe
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Git\SECS Replier\SECSTry\obj\Debug\SECSTry.pdb

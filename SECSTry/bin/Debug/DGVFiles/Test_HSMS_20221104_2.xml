@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SECSReplier_v0_0>
+  <SECSmsg_Datas>
+    <SECSItem0>
+      <Index>0</Index>
+      <State>Receive</State>
+      <StreamFunction Stream="0" Function="0">S0F0</StreamFunction>
+      <Name>
+      </Name>
+      <IsUse>False</IsUse>
+      <Description>
+      </Description>
+      <SECS_Struct>
+        <Root Type="None" Value="System.Object" />
+      </SECS_Struct>
+    </SECSItem0>
+    <SECSItem1>
+      <Index>1</Index>
+      <State>Receive</State>
+      <StreamFunction Stream="1" Function="5">S1F5</StreamFunction>
+      <Name>
+      </Name>
+      <IsUse>True</IsUse>
+      <Description>
+      </Description>
+      <SECS_Struct>
+        <Root Type="L" Value="0" />
+      </SECS_Struct>
+    </SECSItem1>
+    <SECSItem2>
+      <Index>2</Index>
+      <State>Receive</State>
+      <StreamFunction Stream="0" Function="0">S0F0</StreamFunction>
+      <Name>
+      </Name>
+      <IsUse>False</IsUse>
+      <Description>
+      </Description>
+      <SECS_Struct>
+        <Root Type="None" Value="System.Object" />
+      </SECS_Struct>
+    </SECSItem2>
+  </SECSmsg_Datas>
+  <SECS_LinkTable>
+    <Link0>
+      <Info Function="0" Stream="0" Name="" Line="0" />
+    </Link0>
+    <Link1>
+      <Info Function="5" Stream="1" Name="" Line="1" />
+    </Link1>
+    <Link2>
+      <Info Function="0" Stream="0" Name="" Line="2" />
+    </Link2>
+  </SECS_LinkTable>
+</SECSReplier_v0_0>

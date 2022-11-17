@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SystemInitFile>20220901<Connect><AutoConnect>True</AutoConnect><IP>127.0.0.1</IP><Port>5000</Port><AsServer>True</AsServer><AsClient>False</AsClient></Connect><Datas><IsPreset1>True</IsPreset1><FolderPath1></FolderPath1><ReadLatestFile>True</ReadLatestFile><AutoSave>True</AutoSave></Datas><Logger><IsPreset2>True</IsPreset2><FolderPath2></FolderPath2><FilesKeepDays>30</FilesKeepDays></Logger></SystemInitFile>

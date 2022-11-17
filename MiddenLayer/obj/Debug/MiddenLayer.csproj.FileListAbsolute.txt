@@ -1,0 +1,62 @@
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\掛了\SECSTry\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.1\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.0.2\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\MiddenLayer\bin\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\MiddenLayer\bin\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.0\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.2\MiddenLayer\obj\Debug\MiddenLayer.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.csprojResolveAssemblyReference.cache
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\v0\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.csprojResolveAssemblyReference.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.pdb
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.csproj.AssemblyReference.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.csproj.CoreCompileInputs.cache
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.dll
+G:\Visual Work\SECSTry\20221116\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\bin\Debug\MiddenLayer.pdb
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.dll
+D:\張晉豪\Visual Studio Work\MyWork\02正式職員_助理工程師\SECSTry\Back_SECSTry\SECSTry__v0.1.3\MiddenLayer\obj\Debug\MiddenLayer.pdb
