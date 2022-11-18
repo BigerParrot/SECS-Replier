@@ -70,6 +70,7 @@
             this.cms_Paste = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator8 = new System.Windows.Forms.ToolStripSeparator();
             this.cms_SendPrimary = new System.Windows.Forms.ToolStripMenuItem();
+            this.cms_SendSecondary = new System.Windows.Forms.ToolStripMenuItem();
             this.bS1_Show = new SECSCtrlLibs.ButtonStyle1();
             this.secsParaPage_11 = new SECSTry.SECSParaPage_1();
             this.tlp_Base.SuspendLayout();
@@ -281,9 +282,10 @@
             this.cms_copyMessage,
             this.cms_Paste,
             this.toolStripSeparator8,
-            this.cms_SendPrimary});
+            this.cms_SendPrimary,
+            this.cms_SendSecondary});
             this.cms_DGV.Name = "cms_DGV";
-            this.cms_DGV.Size = new System.Drawing.Size(228, 166);
+            this.cms_DGV.Size = new System.Drawing.Size(247, 190);
             this.cms_DGV.Opening += new System.ComponentModel.CancelEventHandler(this.cms_DGV_Opening);
             // 
             // showAllDataToolStripMenuItem
@@ -296,7 +298,7 @@
             this.toolStripSeparator3,
             this.showSFTypeToolStripMenuItem});
             this.showAllDataToolStripMenuItem.Name = "showAllDataToolStripMenuItem";
-            this.showAllDataToolStripMenuItem.Size = new System.Drawing.Size(227, 24);
+            this.showAllDataToolStripMenuItem.Size = new System.Drawing.Size(246, 24);
             this.showAllDataToolStripMenuItem.Text = "Show Data";
             // 
             // cms_ShowAllMessages
@@ -389,7 +391,7 @@
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(224, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(243, 6);
             // 
             // clearAllDataToolStripMenuItem
             // 
@@ -398,7 +400,7 @@
             this.toolStripSeparator5,
             this.allS0F0MessagesToolStripMenuItem});
             this.clearAllDataToolStripMenuItem.Name = "clearAllDataToolStripMenuItem";
-            this.clearAllDataToolStripMenuItem.Size = new System.Drawing.Size(227, 24);
+            this.clearAllDataToolStripMenuItem.Size = new System.Drawing.Size(246, 24);
             this.clearAllDataToolStripMenuItem.Text = "Delete Datas";
             // 
             // allDataToolStripMenuItem
@@ -463,40 +465,47 @@
             // cms_DeleteRow
             // 
             this.cms_DeleteRow.Name = "cms_DeleteRow";
-            this.cms_DeleteRow.Size = new System.Drawing.Size(227, 24);
+            this.cms_DeleteRow.Size = new System.Drawing.Size(246, 24);
             this.cms_DeleteRow.Text = "Delete Row";
             this.cms_DeleteRow.Click += new System.EventHandler(this.cms_DeleteRow_Click);
             // 
             // toolStripSeparator4
             // 
             this.toolStripSeparator4.Name = "toolStripSeparator4";
-            this.toolStripSeparator4.Size = new System.Drawing.Size(224, 6);
+            this.toolStripSeparator4.Size = new System.Drawing.Size(243, 6);
             // 
             // cms_copyMessage
             // 
             this.cms_copyMessage.Name = "cms_copyMessage";
-            this.cms_copyMessage.Size = new System.Drawing.Size(227, 24);
+            this.cms_copyMessage.Size = new System.Drawing.Size(246, 24);
             this.cms_copyMessage.Text = "Copy Message";
             this.cms_copyMessage.Click += new System.EventHandler(this.cms_copyMessage_Click);
             // 
             // cms_Paste
             // 
             this.cms_Paste.Name = "cms_Paste";
-            this.cms_Paste.Size = new System.Drawing.Size(227, 24);
+            this.cms_Paste.Size = new System.Drawing.Size(246, 24);
             this.cms_Paste.Text = "Paste Message";
             this.cms_Paste.Click += new System.EventHandler(this.pasteMessageToolStripMenuItem_Click);
             // 
             // toolStripSeparator8
             // 
             this.toolStripSeparator8.Name = "toolStripSeparator8";
-            this.toolStripSeparator8.Size = new System.Drawing.Size(224, 6);
+            this.toolStripSeparator8.Size = new System.Drawing.Size(243, 6);
             // 
             // cms_SendPrimary
             // 
             this.cms_SendPrimary.Name = "cms_SendPrimary";
-            this.cms_SendPrimary.Size = new System.Drawing.Size(227, 24);
+            this.cms_SendPrimary.Size = new System.Drawing.Size(246, 24);
             this.cms_SendPrimary.Text = "Send Primary Message";
             this.cms_SendPrimary.Click += new System.EventHandler(this.cms_SendPrimary_Click);
+            // 
+            // cms_SendSecondary
+            // 
+            this.cms_SendSecondary.Name = "cms_SendSecondary";
+            this.cms_SendSecondary.Size = new System.Drawing.Size(246, 24);
+            this.cms_SendSecondary.Text = "Send Secondary Message";
+            this.cms_SendSecondary.Click += new System.EventHandler(this.sendSecondaryMessageToolStripMenuItem_Click);
             // 
             // bS1_Show
             // 
@@ -596,5 +605,6 @@
         private System.Windows.Forms.ToolStripMenuItem cms_SendPrimary;
         private System.Windows.Forms.ToolStripMenuItem cms_copyMessage;
         private SECSParaPage_1 secsParaPage_11;
+        private System.Windows.Forms.ToolStripMenuItem cms_SendSecondary;
     }
 }

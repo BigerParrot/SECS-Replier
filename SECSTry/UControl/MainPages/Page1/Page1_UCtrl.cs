@@ -736,6 +736,7 @@ namespace SECSTry
                 */
 
                 cms_SendPrimary.Enabled = false;
+                cms_SendSecondary.Enabled = false;
             }
             else
             {
@@ -750,6 +751,7 @@ namespace SECSTry
                 }*/
 
                 cms_SendPrimary.Enabled = true;
+                cms_SendSecondary.Enabled = true;
             }
             DoShowOrNotShow();
         }
@@ -1002,12 +1004,13 @@ namespace SECSTry
                     cms_DeleteRow.Enabled = true;
                     cms_copyMessage.Enabled = true;
 
-                    if (IsSen ) { cms_SendPrimary.Enabled = true; }
+                    if (IsSen ) { cms_SendPrimary.Enabled = true; cms_SendSecondary.Enabled = true; }
                 }
                 else
                 {
                     cms_DeleteRow.Enabled = false;
                     cms_SendPrimary.Enabled = false;
+                    cms_SendSecondary.Enabled = false;
                     cms_copyMessage.Enabled = false;
                 }
             }
@@ -1051,7 +1054,25 @@ namespace SECSTry
         {
             Int32 rowToSend = dgv_Msgs.Rows.GetFirstRow(DataGridViewElementStates.Selected);
             TheMessage msg = new TheMessage();
-            msg.SECS_Msg = (SECSItem)dgv_Msgs.Rows[rowToSend].Tag;
+            msg.SECS_Msg = ((SECSItem)dgv_Msgs.Rows[rowToSend].Tag).Clone();
+            msg.SECS_Msg.IsWaitBit = true;
+            msg.SECS_Msg.AsPrimaryMessage = true;
+            if (msg.SECS_Msg.IsMsgHas_Spare) { MessageBox.Show("This message contains Spare item", "Error"); return; }
+            if (SendMsg_Event != null)
+            {
+                EventArgs_TheMessage arg = new EventArgs_TheMessage();
+                arg.themsg = msg;
+                SendMsg_Event.Invoke(this, arg);
+            }
+        }
+
+        private void sendSecondaryMessageToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Int32 rowToSend = dgv_Msgs.Rows.GetFirstRow(DataGridViewElementStates.Selected);
+            TheMessage msg = new TheMessage();
+            msg.SECS_Msg = ((SECSItem)dgv_Msgs.Rows[rowToSend].Tag).Clone();
+            msg.SECS_Msg.IsWaitBit = false;
+            msg.SECS_Msg.AsSecondaryMessage = true;
             if (msg.SECS_Msg.IsMsgHas_Spare) { MessageBox.Show("This message contains Spare item", "Error"); return; }
             if (SendMsg_Event != null)
             {
@@ -1136,6 +1157,8 @@ namespace SECSTry
         {
             RefreshNum();
         }
+
+
     }
 
     public class DGVstruct

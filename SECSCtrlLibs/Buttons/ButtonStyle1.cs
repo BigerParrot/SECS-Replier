@@ -314,9 +314,9 @@ namespace SECSCtrlLibs
                 case EButtonStyle1.Warrning:
                     if (ButtonStyle1_OnclickEvent != null)
                     {
-                        colorTimer.Stop();  //異常已排除
+                        //colorTimer.Stop();  //異常已排除
                         ButtonStyle1_OnclickEvent.Invoke(this, new EventArgs());
-                        colorTimer.Start(); //異常已排除
+                        //colorTimer.Start(); //異常已排除
                     }
                     break;
                 case EButtonStyle1.Normal:

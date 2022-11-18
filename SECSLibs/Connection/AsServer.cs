@@ -46,6 +46,7 @@ namespace SECSLibs
         Dictionary<string, int> dataTemp_Total = new Dictionary<string, int>();
         Dictionary<string, int> lastStream = new Dictionary<string, int>();
         Dictionary<string, int> lastFunction = new Dictionary<string, int>();
+        Dictionary<string, bool> lastWaitBit = new Dictionary<string, bool>();
         Dictionary<string, bool> isMessageByte = new Dictionary<string, bool>();
 
         Dictionary<string, bool> isSeperating = new Dictionary<string, bool>();
@@ -232,12 +233,13 @@ namespace SECSLibs
                 lengthOfRead.Add(socket.ID, 14);
                 SessionID.Add(socket.ID, new byte[] { 0xFF, 0xFF });
                 ReqGet.Add(socket.ID, new byte[] { 0x00, 0x00, 0x09, 0x00 });
-                myReqGet.Add(socket.ID, new byte[] { 0x00, 0x01, 0x09, 0x00 });
+                myReqGet.Add(socket.ID, new byte[] { 0x00, 0x00, 0x06, 0x00 });
                 dataCount.Add(socket.ID, new Dictionary<int, int>());
                 dataTemp.Add(socket, new Dictionary<int, byte[]>());
                 dataTemp_Total.Add(socket.ID, 0);
                 lastFunction.Add(socket.ID, 0);
                 lastStream.Add(socket.ID, 0);
+                lastWaitBit.Add(socket.ID, false);
                 isMessageByte.Add(socket.ID, false);
 
                 isSeperating.Add(socket.ID, false);
@@ -305,6 +307,7 @@ namespace SECSLibs
                 if (dataTemp_Total.ContainsKey(socket.ID)) { dataTemp_Total.Remove(socket.ID); }
                 if (lastStream.ContainsKey(socket.ID)) { lastStream.Remove(socket.ID); }
                 if (lastFunction.ContainsKey(socket.ID)) { lastFunction.Remove(socket.ID); }
+                if (lastWaitBit.ContainsKey(socket.ID)) { lastWaitBit.Remove(socket.ID); }
                 if (isMessageByte.ContainsKey(socket.ID)) { isMessageByte.Remove(socket.ID); }
 
                 if (isSendEnd.ContainsKey(socket.ID)) { isSendEnd.Remove(socket.ID); }
@@ -340,7 +343,7 @@ namespace SECSLibs
 
                             Themsg.SF = string.Format("S0F0");
                             Themsg.ID = socket.ID;
-                            Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, 10, (ESType)(eSType + 1));
+                            Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, 10, (ESType)(eSType + 1), false);
                             arg.themsg = Themsg;
                             arg.IsSend = true;
                             MsgBase_Event.Invoke(new object(), arg);
@@ -369,10 +372,21 @@ namespace SECSLibs
                         while (sendMsg[socket.ID].Count > 0)
                         {
                             ///向客戶端傳送一條訊息
+                            SECSmsg toSend = sendMsg[socket.ID].Dequeue();
 
                             byte[] t3Array = new byte[4];
-                            Array.Copy(myReqGet[socket.ID], t3Array, myReqGet[socket.ID].Length);
-                            SECSmsg toSend = sendMsg[socket.ID].Dequeue();
+                            
+                            if (toSend.AsPrimaryMessage)
+                            {
+                                Array.Copy(myReqGet[socket.ID], t3Array, myReqGet[socket.ID].Length);
+                                DoReqGetNextValue(ref t3Array);
+                                Array.Copy(t3Array, myReqGet[socket.ID], t3Array.Length);
+                            }
+                            else
+                            {
+                                Array.Copy(ReqGet[socket.ID], t3Array, ReqGet[socket.ID].Length);
+                            }
+
                             byte[] date = SECSstruct.BuildSendSECSmsg(ESType.DataMessage, SessionID[socket.ID], t3Array, toSend);//轉換成為bytes陣列
                             if (date != null)
                             {
@@ -390,7 +404,7 @@ namespace SECSLibs
                                     EventArgs_TheMessage arg = new EventArgs_TheMessage();
 
                                     TheMessage msg = new TheMessage();
-                                    string allmsg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, GetTitleofByteArray(date, 1, 4), ESType.DataMessage, toSend.Stream, toSend.Function);
+                                    string allmsg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, GetTitleofByteArray(date, 1, 4), ESType.DataMessage, toSend.IsWaitBit, toSend.Stream, toSend.Function);
 
                                     msg.Msg = allmsg;
                                     msg.SF = toSend.GetSF_string;
@@ -417,9 +431,9 @@ namespace SECSLibs
                                 }
 
                             }
-                            byte[] r = myReqGet[socket.ID];
-                            DoReqGetNextValue(ref r);
-                            myReqGet[socket.ID] = r;
+                            //byte[] r = myReqGet[socket.ID];
+                            //DoReqGetNextValue(ref r);
+                            //myReqGet[socket.ID] = r;
                             BackState2(EMsgState.Sent);
                         }
                     }
@@ -551,6 +565,7 @@ namespace SECSLibs
                     if (SECSstruct.BuildSECSmsg(dateBuffer, ref msg))
                     {
                         msg.SetSF(lastStream[socket.ID], lastFunction[socket.ID]);
+                        msg.IsWaitBit = lastWaitBit[socket.ID];
 
                         allmsg = SECSshowBuilder.SECSmsg_Struct_ToString(ESECSMsgState.Receive, msg);
                         Themsg.SF = msg.GetSF_string;
@@ -583,7 +598,6 @@ namespace SECSLibs
                         for (int y = 10; y < 14; y++)
                         {
                             ReqGet[socket.ID][y - 10] = dateBuffer[y];
-                            myReqGet[socket.ID][y - 10] = dateBuffer[y];
 
                             byte[] toRemove = null;
                             if (List_T3.ContainsKey(socket.ID))
@@ -608,7 +622,7 @@ namespace SECSLibs
                             DoRemoveClientSocket(socket);
                             if (clients.Count <= 0) { BackState1(EConnectState.Connecting); }
                         }
-                        if (lastStream[socket.ID] >= 128) { lastStream[socket.ID] -= 128; }
+                        if (lastStream[socket.ID] >= 128) { lastStream[socket.ID] -= 128; lastWaitBit[socket.ID] = true; } else { lastWaitBit[socket.ID] = false; }
                         lock (socket.socket_locker)
                         {
                             if (GetMsgType.ContainsKey(socket.ID)) { GetMsgType[socket.ID] = eSType; }
@@ -621,7 +635,7 @@ namespace SECSLibs
                         lengthOfRead[socket.ID] = GetTitleofByteArray_Uint(dateBuffer, 1, 4) - 10;
                         isMessageByte[socket.ID] = true;
                     }
-                    allmsg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Receive, GetTitleofByteArray(dateBuffer, 1, 4), GetMsgType[socket.ID], lastStream[socket.ID], lastFunction[socket.ID]);
+                    allmsg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Receive, GetTitleofByteArray(dateBuffer, 1, 4), GetMsgType[socket.ID], lastWaitBit[socket.ID], lastStream[socket.ID], lastFunction[socket.ID]);
                     Themsg.Msg = allmsg;
                     Themsg.SF = "S" + lastStream[socket.ID].ToString() + "F" + lastFunction[socket.ID].ToString();
                 }

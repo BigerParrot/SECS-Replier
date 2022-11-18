@@ -287,7 +287,8 @@ namespace SECSLibs
 
                 byte[] b4 = new byte[4];
                 b4 = BitConverter.GetBytes(msgPart.Count + 10);
-
+                int isWaitBit = 0;
+                if (msg.IsWaitBit) { isWaitBit = 128; }
                 byte[] backMsg = new byte[]{
                     b4[3],
                     b4[2],
@@ -297,7 +298,7 @@ namespace SECSLibs
                     0x00, // Device ID
                     0x00, // Device ID
 
-                    BitConverter.GetBytes(msg.Stream + 128)[0],
+                    BitConverter.GetBytes(msg.Stream + isWaitBit)[0],
                     BitConverter.GetBytes(msg.Function)[0],
 
                     0x00,
@@ -530,6 +531,7 @@ namespace SECSLibs
 
         private Root rootItem = new Root();
         private bool msgState = true;
+        private bool wbit = false;
 
         /// <summary>
         /// 取得訊號的複製項
@@ -565,6 +567,7 @@ namespace SECSLibs
 
         public bool AsPrimaryMessage { get { return msgState; }set { msgState = value; } }
         public bool AsSecondaryMessage { get { return !msgState; } set { msgState = !value; } }
+        public bool IsWaitBit { get { return wbit; } set { wbit = value; } }
 
         /// <summary>
         /// 訊號的根項目

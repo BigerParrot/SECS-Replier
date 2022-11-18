@@ -100,7 +100,6 @@ namespace SECSTry
 
         private void InitDGV_Receive()
         {
-            dgv_Receive.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgv_Receive.ColumnCount = 0;
 
             //第2行
@@ -136,6 +135,7 @@ namespace SECSTry
                 dgv_Receive.Columns.Insert(columnIndex0, buttonColumn0);
             }
 
+            dgv_Receive.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
             dgv_Receive.Columns[0].Width = 40;
             dgv_Receive.Columns[1].Width = 40;
@@ -260,7 +260,6 @@ namespace SECSTry
 
         private void InitDGV_Send()
         {
-            dgv_Send.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgv_Send.ColumnCount = 0;
 
             //第2行
@@ -296,6 +295,7 @@ namespace SECSTry
             }
             buttonColumn0.ReadOnly = true;
 
+            dgv_Send.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
             dgv_Send.Columns[0].Width = 40;
             dgv_Send.Columns[1].Width = 85;
@@ -304,6 +304,7 @@ namespace SECSTry
             row_Send = (DataGridViewRow)dgv_Send.Rows[0].Clone();
 
             dgv_Send.AllowUserToAddRows = false;
+            
         }
 
         private void RefreshNum_Send()
@@ -417,7 +418,6 @@ namespace SECSTry
 
         private void InitDGV_Clients()
         {
-            dgv_Clients.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgv_Clients.ColumnCount = 0;
 
             //第3行
@@ -462,6 +462,7 @@ namespace SECSTry
                 dgv_Clients.Columns.Insert(columnIndex0, buttonColumn0);
             }
 
+            dgv_Clients.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
             dgv_Clients.Columns[0].Width = 50;
             dgv_Clients.Columns[1].Width = 70;
@@ -471,6 +472,7 @@ namespace SECSTry
             row_Clients = (DataGridViewRow)dgv_Clients.Rows[0].Clone();
 
             dgv_Clients.AllowUserToAddRows = false;
+            
         }
 
         void SECSsystem_DoRoleChangeEvent(object sender, EventArgs e)
@@ -504,13 +506,5 @@ namespace SECSTry
         }
 
         #endregion --Server Table--
-
-        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            foreach (TabPage tp in tabControl1.TabPages)
-            {
-                int a = 0;
-            }
-        }
     }
 }

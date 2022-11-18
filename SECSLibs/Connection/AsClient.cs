@@ -35,6 +35,7 @@ namespace SECSLibs
         Dictionary<int, byte[]> dataTemp = new Dictionary<int, byte[]>();
         Dictionary<int, int> dataCount = new Dictionary<int, int>();
         private int dataTemp_Total = 0;
+        private bool isWaitBit = true;
 
         private bool isMessageByte = false;
         private bool isSECS_LinkStep = false;
@@ -52,6 +53,7 @@ namespace SECSLibs
         public bool IsTryingConnect { get { return isTryingConnect; } }
 
         object isconnectlock = new object();
+        object t5locker = new object();
 
         public bool IsConnect
         {
@@ -94,17 +96,18 @@ namespace SECSLibs
         public AsClient()
         {
             SessionID = new byte[] { 0xFF, 0xFF };
-            ReqGet = new byte[] { 0x00, 0x00, 0x09, 0x00 };
-            myReqGet = new byte[] { 0x00, 0x01, 0x09, 0x00 };
+            ReqGet = new byte[] { 0x00, 0x00, 0x06, 0x00 };
+            myReqGet = new byte[] {0x00, 0x00, 0x09, 0x00};
 
             clientTimer.DoTimeoutEvent += AsClient_DoTimeoutEvent;
         }
 
         void AsClient_DoTimeoutEvent(object sender, EventArgs_Timeout e)
         {
-            if (e.style == ETimeout.T5) { if (ip != null && isTryingConnect && !hereTotalclose) { DoConnect(ip, port); } else if (!isTryingConnect) { return; } }
+            if (e.style == ETimeout.T5) { if (ip != null && isTryingConnect && !hereTotalclose) {clientTimer.T5s.Clear(); DoConnect(ip, port); } else if (!isTryingConnect) { return; } }
             if ((clientSocket == null || !clientSocket.IsBound) && e.style != ETimeout.T5) { return; }
             if (e.style == ETimeout.T6) { Close(); if (clientTimer.T5s.Count<1) {clientTimer.AddTimer(ETimeout.T5); } }
+            if (e.style == ETimeout.T3) { int a = 0;}
 
             if (Timeout_Event != null)
             {
@@ -119,9 +122,14 @@ namespace SECSLibs
             if (!hereTotalclose && isTryingConnect)
             {
                 Close();
-                if (clientTimer.T5s.Count < 1) { clientTimer.AddTimer(ETimeout.T5); }
+                lock(t5locker)
+                {
+                    if (clientTimer.T5s.Count < 1)
+                    {
+                        clientTimer.AddTimer(ETimeout.T5);
+                    } 
+                }
             }
-            
         }
 
         public void DoConnect(IPAddress ip, int port, bool istrying = false)
@@ -203,7 +211,7 @@ namespace SECSLibs
             if (hereTotalclose) { return; }
             if (!isSECS_LinkStep || !isSECS_SelectStep)
             {
-                myReqGet = new byte[] { 0x00, 0x01, 0x09, 0x00 };
+                myReqGet = new byte[] { 0x00, 0x00, 0x09, 0x00 };
 
                 bool isContinue = false;
                 int times = 0;
@@ -229,7 +237,7 @@ namespace SECSLibs
 
             if (GetMsgType != ESType.None && GetMsgType != ESType.DataMessage && (int)GetMsgType % 2 == 1)
             {
-                byte[] sendByte = SECSstruct.BuildSendSECSmsg(GetMsgType + 1, SessionID, ReqGet);
+                byte[] sendByte = SECSstruct.BuildSendSECSmsg(GetMsgType + 1, SessionID, myReqGet);
                 try
                 {
                     clientSocket.Send(sendByte);
@@ -252,10 +260,22 @@ namespace SECSLibs
                 ///向客戶端傳送一條訊息
                 try
                 {
-                    DoReqGetNextValue(ref myReqGet);
-                    byte[] t3Array = new byte[4];
-                    Array.Copy(myReqGet, t3Array, myReqGet.Length);
                     SECSmsg toSend = sendMsg.Dequeue();
+                    byte[] t3Array = new byte[4];
+                    
+
+                    if (toSend.AsPrimaryMessage)
+                    {
+                        Array.Copy(myReqGet, t3Array, myReqGet.Length);
+                        DoReqGetNextValue(ref t3Array);
+                        Array.Copy(t3Array, myReqGet, t3Array.Length);
+                    }
+                    else
+                    {
+                        Array.Copy(ReqGet, t3Array, ReqGet.Length);
+                    }
+
+
                     byte[] date = SECSstruct.BuildSendSECSmsg(ESType.DataMessage, SessionID, t3Array, toSend);//轉換成為bytes陣列
                     if (date != null) 
                     { 
@@ -274,7 +294,7 @@ namespace SECSLibs
 
                             TheMessage msg = new TheMessage();
                             
-                            msg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, date.Length, ESType.DataMessage, toSend.Stream, toSend.Function);
+                            msg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, date.Length, ESType.DataMessage, toSend.IsWaitBit, toSend.Stream, toSend.Function);
                             msg.SF = toSend.GetSF_string;
 
                             arg.themsg = msg;
@@ -316,7 +336,7 @@ namespace SECSLibs
 
         private void ClientReceive()
         {
-            lock (isconnectlock){ if (!IsConnect) { lengthOfRead = 14; return; } }
+            lock (isconnectlock){ if (!IsConnect) { DoResetConnection(); return; } }
 
             byte[] dateBuffer = new byte[lengthOfRead];
             int count = 0;
@@ -375,6 +395,7 @@ namespace SECSLibs
                 if (SECSstruct.BuildSECSmsg(dateBuffer, ref msg))
                 {
                     msg.SetSF(lastStream, lastFunction);
+                    msg.IsWaitBit = isWaitBit;
 
                     Themsg.SF = msg.GetSF_string;
                     Themsg.Msg = SECSshowBuilder.SECSmsg_Struct_ToString(ESECSMsgState.Receive, msg);
@@ -434,15 +455,11 @@ namespace SECSLibs
                     if (GetMsgType == ESType.LinkTest_Rsp) { isSECS_LinkStep = true; }
                     if (GetMsgType == ESType.Separate_Req) 
                     { 
-                        Close(); 
-                        if (clientTimer.T5s.Count < 1) 
-                        { 
-                            clientTimer.AddTimer(ETimeout.T5); 
-                        } 
+                        DoResetConnection();
                         return; 
                     }
 
-                    if (lastStream >= 128) { lastStream -= 128; }
+                    if (lastStream >= 128) { lastStream -= 128; isWaitBit = true; } else { isWaitBit = false; }
 
                 }
 
@@ -452,7 +469,7 @@ namespace SECSLibs
                     isMessageByte = true;
                 }
 
-                Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Receive, (int)GetTitleofByteArray_Uint(dateBuffer, 1, 4), GetMsgType, lastStream, lastFunction);
+                Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Receive, (int)GetTitleofByteArray_Uint(dateBuffer, 1, 4), GetMsgType, isWaitBit, lastStream, lastFunction);
                 Themsg.SF = "S" + lastStream.ToString() + "F" + lastFunction.ToString();
             }
 
@@ -481,8 +498,8 @@ namespace SECSLibs
         {
             if (!(typr == ESType.LinkTest_Req || typr == ESType.Select_Req)) { return; }
 
-            byte[] sendByte1 = SECSstruct.Send_SelectReq(myReqGet);
-            byte[] sendByte2 = SECSstruct.Send_LinkTest(myReqGet);
+            byte[] sendByte1 = SECSstruct.Send_SelectReq(ReqGet);
+            byte[] sendByte2 = SECSstruct.Send_LinkTest(ReqGet);
 
             try
             {
@@ -492,7 +509,7 @@ namespace SECSLibs
                     if (typr == ESType.Select_Req)
                     {
                         clientSocket.Send(sendByte1);
-                        clientTimer.AddTimer(ETimeout.T6, myReqGet);
+                        clientTimer.AddTimer(ETimeout.T6, ReqGet);
 
                     }
                     else
@@ -510,11 +527,11 @@ namespace SECSLibs
                         
                         if(typr == ESType.Select_Req)
                         {
-                            Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, sendByte1.Length, typr);
+                            Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, sendByte1.Length, typr, false);
                         }
                         else
                         {
-                            Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, sendByte2.Length, typr);
+                            Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, sendByte2.Length, typr, false);
                         }
                         
 
@@ -540,7 +557,7 @@ namespace SECSLibs
         {
             ESType typr = ESType.Separate_Req;
 
-            byte[] sendByte1 = SECSstruct.BuildSendSECSmsg(ESType.Separate_Req, SessionID, myReqGet);
+            byte[] sendByte1 = SECSstruct.BuildSendSECSmsg(ESType.Separate_Req, SessionID, ReqGet);
 
             try
             {
@@ -551,7 +568,7 @@ namespace SECSLibs
                         TheMessage Themsg = new TheMessage();
                         EventArgs_TheMessage arg = new EventArgs_TheMessage();
                         Themsg.SF = string.Format("Separate");
-                        Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, sendByte1.Length, typr);
+                        Themsg.Msg = SECSshowBuilder.SECSmsg_Base_ToString(ESECSMsgState.Send, sendByte1.Length, typr, false);
 
                         arg.themsg = Themsg;
                         arg.IsSend = true;

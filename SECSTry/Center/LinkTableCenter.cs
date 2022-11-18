@@ -228,7 +228,16 @@ namespace SECSTry
                             foreach (SECSItem putin in linkTable[item])
                             {
                                 SECSmsg toSendMsg = putin.Clone();
-                                toSendMsg.AsSecondaryMessage = true;
+                                if (toSendMsg.Function % 2 == 0) //自動判定回傳訊號類型
+                                { 
+                                    toSendMsg.IsWaitBit = false; 
+                                    toSendMsg.AsSecondaryMessage = true;
+                                }
+                                else
+                                {
+                                    toSendMsg.IsWaitBit = true;
+                                    toSendMsg.AsPrimaryMessage = true;
+                                }
                                 if (putin.IsUsed) { backDatas.Add(toSendMsg); Thread.Sleep(3); }
                             }
                             break;

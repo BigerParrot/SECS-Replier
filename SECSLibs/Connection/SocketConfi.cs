@@ -14,11 +14,19 @@ namespace SECSLibs
 
     public static class SECSshowBuilder
     {
-        public static string SECSmsg_Base_ToString(ESECSMsgState state, int lengthOfmsgByte,ESType msgType, int stream = 0, int function = 0)
+        public static string SECSmsg_Base_ToString(ESECSMsgState state, int lengthOfmsgByte,ESType msgType, bool isWaitBit, int stream = 0, int function = 0)
         {
             string allmsg = string.Empty;
             allmsg += string.Format("{0} \n", DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss"));
-            allmsg += "訊息傳輸: " + state.ToString() + "\n";
+            if (isWaitBit)
+            {
+                allmsg += "訊息傳輸: " + state.ToString() + " [W]\n";
+            }
+            else
+            {
+                allmsg += "訊息傳輸: " + state.ToString() + "\n";
+            }
+            
             allmsg += "訊息長度為: " + lengthOfmsgByte.ToString() + "\n";
             allmsg += "Stream Function為: S" + stream.ToString() + "F" + function.ToString() + "\n";
             allmsg += "訊號類型為: " + msgType.ToString() + "\n";
